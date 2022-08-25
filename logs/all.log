@@ -1,0 +1,4 @@
+time="2022-08-25T12:17:55+03:00" level=info msg="create router" func="main.main()" file="$s:$d%!(EXTRA string=app.go, int=16)"
+time="2022-08-25T12:17:55+03:00" level=info msg="create router" func="main.main()" file="$s:$d%!(EXTRA string=app.go, int=16)"
+time="2022-08-25T12:17:55+03:00" level=info msg="register user handler" func="main.main()" file="$s:$d%!(EXTRA string=app.go, int=19)"
+time="2022-08-25T12:17:55+03:00" level=info msg="register user handler" func="main.main()" file="$s:$d%!(EXTRA string=app.go, int=19)"
